@@ -5,8 +5,7 @@ My name is Pargol. I study web development on my own.
 
 I have Finished the CS50's Web Programming with Python and JavaScript with verified certificate.
 
-
-#### ![CS50W-png-Certificate](https://user-images.githubusercontent.com/64143913/197163203-5d277096-1411-43d5-919e-6ac6e9f2a40e.png)
+#### [CS50W-pdf-Certificate.pdf](https://github.com/pargolgivechi/pargolgivechi/files/9837691/CS50W-pdf-Certificate.pdf)
 
 
 
