@@ -17,7 +17,7 @@ My name is Pargol. I study web development on my own.
 <br />
 
 
-I have Finished the *CS50's Web Programming with Python and JavaScript* with verified certificate.
+I have finished the *CS50's Web Programming with Python and JavaScript* with verified certificate by Harvard University.
 
 
 <a href="https://certificates.cs50.io/5e008ca3-e59a-40df-a130-b14917a25390.pdf?size=letter">
@@ -28,7 +28,7 @@ I have Finished the *CS50's Web Programming with Python and JavaScript* with ver
 <br/>
 <br/> 
 
-🎓 **I already have *several projects* that I have done as part of this course:**
+🎓 **I have done 6 different projects as part of this course::**
 
 * [HealthyPlan](https://github.com/pargolgivechi/CS50Web-Final-Project-HealthyPlan) 
 * [Network](https://github.com/pargolgivechi/CS50Web-Network)
@@ -42,7 +42,9 @@ I have Finished the *CS50's Web Programming with Python and JavaScript* with ver
 
 Some other courses regarding front development such as:
 
-[React Front To Back](https://www.udemy.com/certificate/UC-4bcbedf6-5046-43bf-952a-a4985f8902d1/), [Modern JavaScript](https://www.udemy.com/certificate/UC-0f7d6fe0-9d8c-401d-8131-88dfd90c71ec/) And [Modern HTML & CSS](https://www.udemy.com/certificate/UC-3f6d2512-f242-4a13-8144-67f4005ab703/).
+[React Front To Back](https://www.udemy.com/certificate/UC-4bcbedf6-5046-43bf-952a-a4985f8902d1/) <hr/>
+[Modern JavaScript](https://www.udemy.com/certificate/UC-0f7d6fe0-9d8c-401d-8131-88dfd90c71ec/) <hr/>
+[Modern HTML & CSS](https://www.udemy.com/certificate/UC-3f6d2512-f242-4a13-8144-67f4005ab703/) <hr/>
 
 <br/>
 
