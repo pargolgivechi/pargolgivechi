@@ -5,7 +5,9 @@ My name is Pargol. I study web development on my own.
 
 I have Finished the CS50's Web Programming with Python and JavaScript with verified certificate.
 
-
+<a href="https://certificates.cs50.io/5e008ca3-e59a-40df-a130-b14917a25390.pdf?size=letter">
+    <img src="" alt="CS50 sertificate" width="350px">
+</a>
 
 <!--
 **pargolgivechi/pargolgivechi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
