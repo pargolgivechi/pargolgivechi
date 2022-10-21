@@ -24,14 +24,16 @@ I have Finished the *CS50's Web Programming with Python and JavaScript* with ver
     <img src="https://user-images.githubusercontent.com/64143913/197171453-701236aa-aff7-4531-98db-f7b0ff0fd7af.png" alt="CS50W certificate" width="300px">
 </a>
 
+<br/>
 
-***
+🎓 **I already have *several projects* that I have done as part of this course:**
 
-🎓
-
-**I already have *several projects* that I have done as part of the courses:**
-
-**[HealthyPlan](https://github.com/pargolgivechi/CS50Web-Final-Project-HealthyPlan), [Network](https://github.com/pargolgivechi/CS50Web-Network), [Mail](https://github.com/pargolgivechi/CS50Web-Mail), [Auction](https://github.com/pargolgivechi/CS50Web-Commerce), [Wiki](https://github.com/pargolgivechi/CS50Web-Wiki), [Search](https://github.com/pargolgivechi/CS50Web-Search)**
+**1-[HealthyPlan](https://github.com/pargolgivechi/CS50Web-Final-Project-HealthyPlan) 
+2-[Network](https://github.com/pargolgivechi/CS50Web-Network)
+3-[Mail](https://github.com/pargolgivechi/CS50Web-Mail)
+4-[Auction](https://github.com/pargolgivechi/CS50Web-Commerce)
+5-[Wiki](https://github.com/pargolgivechi/CS50Web-Wiki)
+6-[Search](https://github.com/pargolgivechi/CS50Web-Search)**
 
 ***
 <br/>
