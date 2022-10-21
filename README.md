@@ -30,8 +30,8 @@ I have Finished the *CS50's Web Programming with Python and JavaScript* with ver
 
 🎓 **I already have *several projects* that I have done as part of this course:**
 
-**[HealthyPlan](https://github.com/pargolgivechi/CS50Web-Final-Project-HealthyPlan)** 
-**[Network](https://github.com/pargolgivechi/CS50Web-Network)**
+* [HealthyPlan](https://github.com/pargolgivechi/CS50Web-Final-Project-HealthyPlan) 
+* [Network](https://github.com/pargolgivechi/CS50Web-Network)
 * [Mail](https://github.com/pargolgivechi/CS50Web-Mail)
 * [Auction](https://github.com/pargolgivechi/CS50Web-Commerce)
 * [Wiki](https://github.com/pargolgivechi/CS50Web-Wiki)
@@ -48,8 +48,9 @@ Some other courses regarding front development such as:
 
 Some related fulfilled projects to the frontend development:
 
-[animated-ad](https://github.com/pargolgivechi/animated-ad), [news-grid](https://github.com/pargolgivechi/news-grid), [
-github-finder](https://github.com/pargolgivechi/github-finder) etc.
+* [animated-ad](https://github.com/pargolgivechi/animated-ad)
+* [news-grid](https://github.com/pargolgivechi/news-grid)
+* [github-finder](https://github.com/pargolgivechi/github-finder) etc.
 
 
 <br/>
