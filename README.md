@@ -30,29 +30,27 @@ I have finished the *CS50's Web Programming with Python and JavaScript* with ver
 
 🎓 **I have done 6 different projects as part of this course:**
 
-[HealthyPlan](https://github.com/pargolgivechi/CS50Web-Final-Project-HealthyPlan) <br/>
-[Network](https://github.com/pargolgivechi/CS50Web-Network) <br/>
-[Mail](https://github.com/pargolgivechi/CS50Web-Mail) <br/>
-[Auction](https://github.com/pargolgivechi/CS50Web-Commerce) <br/>
-[Wiki](https://github.com/pargolgivechi/CS50Web-Wiki) <br/>
-[Search](https://github.com/pargolgivechi/CS50Web-Search)
+  [HealthyPlan](https://github.com/pargolgivechi/CS50Web-Final-Project-HealthyPlan) <br/>
+  [Network](https://github.com/pargolgivechi/CS50Web-Network) <br/>
+  [Mail](https://github.com/pargolgivechi/CS50Web-Mail) <br/>
+  [Auction](https://github.com/pargolgivechi/CS50Web-Commerce) <br/>
+  [Wiki](https://github.com/pargolgivechi/CS50Web-Wiki) <br/>
+  [Search](https://github.com/pargolgivechi/CS50Web-Search)
 
 ***
 <br/>
 
 Some other courses regarding front development such as:
-
-[React Front To Back](https://www.udemy.com/certificate/UC-4bcbedf6-5046-43bf-952a-a4985f8902d1/) <br/>
-[Modern JavaScript](https://www.udemy.com/certificate/UC-0f7d6fe0-9d8c-401d-8131-88dfd90c71ec/) <br/>
-[Modern HTML & CSS](https://www.udemy.com/certificate/UC-3f6d2512-f242-4a13-8144-67f4005ab703/) <br/>
+  [Modern HTML & CSS](https://www.udemy.com/certificate/UC-3f6d2512-f242-4a13-8144-67f4005ab703/) <br/>
+  [Modern JavaScript](https://www.udemy.com/certificate/UC-0f7d6fe0-9d8c-401d-8131-88dfd90c71ec/) <br/>
+  [React Front To Back](https://www.udemy.com/certificate/UC-4bcbedf6-5046-43bf-952a-a4985f8902d1/)
 
 <br/>
 
 Some related fulfilled projects to the frontend development:
-
-[animated-ad](https://github.com/pargolgivechi/animated-ad) <br/>
-[news-grid](https://github.com/pargolgivechi/news-grid) <br/>
-[github-finder](https://github.com/pargolgivechi/github-finder) etc.
+  [animated-ad](https://github.com/pargolgivechi/animated-ad) <br/>
+  [news-grid](https://github.com/pargolgivechi/news-grid) <br/>
+  [github-finder](https://github.com/pargolgivechi/github-finder) etc.
 
 
 <br/>
