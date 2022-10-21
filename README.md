@@ -9,7 +9,8 @@ I have Finished the *CS50's Web Programming with Python and JavaScript* with ver
     <img src="https://user-images.githubusercontent.com/64143913/197171453-701236aa-aff7-4531-98db-f7b0ff0fd7af.png" alt="CS50W certificate" width="300px">
 </a>
 
-***
+
+****
 
 🎓
 ### I already have *several projects* that I have done as part of the courses:
