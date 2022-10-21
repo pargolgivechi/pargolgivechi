@@ -1,7 +1,6 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/pargolgivehchi/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-
 <br />
 
 My name is Pargol. I study web development on my own.
@@ -14,10 +13,9 @@ My name is Pargol. I study web development on my own.
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap&logoColor=white)
   ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
   ![React](https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white)
-  ![SQlite]
-  ![Django]
-  
+ 
 <br />
+
 
 I have Finished the *CS50's Web Programming with Python and JavaScript* with verified certificate.
 
